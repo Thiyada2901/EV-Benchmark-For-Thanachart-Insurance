@@ -1,0 +1,8 @@
+pip install pandas scikit-learn streamlit plotly openpyxl
+!pip install pandas scikit-learn plotly openpyxl -q
+import pandas as pd
+import numpy as np
+pip install streamlit
+!pip install streamlit pyngrok
+!pip install -q streamlit pyngrok
+import streamlit as st
