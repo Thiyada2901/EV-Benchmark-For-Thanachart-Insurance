@@ -1,6 +1,6 @@
-streamlit==1.40.0
-pandas==2.2.3
-numpy==1.26.4
-openpyxl==3.1.5
+openpyxl
+pandas
+numpy
+streamlit
 pip install openpyxl
 python -m pip install openpyxl
